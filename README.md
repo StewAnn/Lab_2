@@ -1,7 +1,7 @@
 ### Run
-- git clone https://github.com/maxpavlov9991/vk-auth.git
-- cd vk-auth
-- yarn install
-- yarn start
-- open borwser WITHOUT CORS!!! because there is no info about headers in vk api.
-- open http://localhost:3000
+* git clone https://github.com/StewAnn/Lab_2.git
+* yarn install
+* yarn start
+* Run Chrome browser without CORS, for mac insert in terminal
+- open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
+* open http://localhost:3000
